@@ -1,4 +1,4 @@
 # Payment-App---C-Project-
 Implementation of payment application using C programming
 
-(FWD December Cohort 2022)
+(FWD Embedded Systems - December Cohort 2022)
